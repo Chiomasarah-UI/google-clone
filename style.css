@@ -263,16 +263,16 @@ main{
     width: 95%;
 }
 
-.first{
+.ffirst{
     border-radius: 1rem 0 0 1rem;
 }
 
-.last{
+.llast{
     border-radius: 0 1rem 1rem 0;
     margin-left: -.15rem;
 }
 
-.second, .third{
+.ssecond, .tthird{
     margin-left: -.15rem;
 }
 
@@ -443,7 +443,7 @@ main{
     position: absolute;
     width: 22%;
     left: 27%;
-    top: 224.5%;
+    top: 202.3%;
     height: 2.3rem;
     border-radius: 5rem;
     border: none;
@@ -720,7 +720,7 @@ video{
     position: absolute;
     width: 22%;
     left: 27%;
-    top: 160rem;
+    top: 159rem;
     height: 2.3rem;
     border-radius: 5rem;
     border: none;
